@@ -7,7 +7,7 @@ Alperen Demirtürkoğlu   : 1804010006
 #include <LiquidCrystal.h>
 
 unsigned char frekansH = 0;
-unsigned char frekansL = 1;
+unsigned char frekansL = 0;
 
 unsigned int frekansB;
 double frekans = 0;
